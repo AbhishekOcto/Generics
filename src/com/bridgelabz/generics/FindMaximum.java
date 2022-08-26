@@ -1,6 +1,7 @@
 package com.bridgelabz.generics;
 
 /**
+ * UC4
 * @author -Abhishek Kumar
 * @since - 26-08-2022
 */
@@ -29,5 +30,4 @@ public class FindMaximum {
 		System.out.println("The maximum value between the three float is : " + maxOfValues(13.5f, 3.56f, 58.87f) + "\n");
 		System.out.println("The maximum value between the three string is : " + maxOfValues("apple", "banana", "peach"));
 		}
-	
 }
