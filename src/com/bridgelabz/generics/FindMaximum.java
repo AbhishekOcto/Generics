@@ -29,5 +29,8 @@ public class FindMaximum {
 		}
 		return max;
 		}
+	public static <T> void printMax(T a1,T a2,T a3,T a4, T max){
+        System.out.println(max);
+    }
 	
 }
