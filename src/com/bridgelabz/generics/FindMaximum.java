@@ -1,7 +1,6 @@
 package com.bridgelabz.generics;
 
 /**
- * UC4 Extend the max method to take more then three parameters
 * @author -Abhishek Kumar
 * @since - 31-08-2022
 */
